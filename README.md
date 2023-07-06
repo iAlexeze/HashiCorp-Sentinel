@@ -37,7 +37,8 @@ To use the Sentinel policies and leverage their enforcement capabilities, follow
 
     -   Monitor the policy enforcement, review policy violations, and take necessary actions to remediate non-compliant resources or configurations.
 
-#### Please note that the policies provided in this repository serve as examples and starting points. You should customize them or create new policies to suit your specific infrastructure, security, and compliance requirements.
+#### Please note that the policies provided in this repository serve as examples and starting points. 
+You should customize them or create new policies to suit your specific infrastructure, security, and compliance requirements.
 
 ## License
 This repository is licensed under the MIT License. You are free to use, modify, and distribute the code as permitted by the license. Please refer to the license file for more details.
@@ -48,7 +49,7 @@ We would like to acknowledge the Sentinel community and contributors for their v
 If you have any questions, suggestions, or issues, please don't hesitate to reach out. We appreciate your interest and hope this repository proves useful in ensuring policy compliance within your infrastructure.
 
 Thank you,
-### @ialexeze
+### [@ialexeze](http://github.com/ialexeze)
 
 
 
