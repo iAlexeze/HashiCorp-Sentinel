@@ -26,17 +26,17 @@ This file contains another sample policy that checks if the current hour is past
 # Getting Started
 To use the Sentinel policies and leverage their enforcement capabilities, follow these steps:
 
-    -   Clone the repository to your local machine or workspace.
+-   Clone the repository to your local machine or workspace.
 
-    -   Review the documentation and README file to understand the purpose and usage of the policies and related files.
+-   Review the documentation and README file to understand the purpose and usage of the policies and related files.
 
-    -   Customize the policies or create new policies based on your specific requirements. 
-        Modify the rules and conditions to enforce the desired behaviors or restrictions in your infrastructure.
+-   Customize the policies or create new policies based on your specific requirements.
+    -   Modify the rules and conditions to enforce the desired behaviors or restrictions in your infrastructure.
 
-    -   Test the policies using the provided test scenarios. 
+-   Test the policies using the provided test scenarios. 
         Adjust the test variables or create new test scenarios to validate the policies against different conditions and edge cases.
 
-    -   Integrate the policies into your deployment pipelines, infrastructure-as-code workflows, or other relevant processes to enforce policy compliance and ensure adherence to defined rules.
+-   Integrate the policies into your deployment pipelines, infrastructure-as-code workflows, or other relevant processes to enforce policy compliance and ensure adherence to defined rules.
 
     -   Monitor the policy enforcement, review policy violations, and take necessary actions to remediate non-compliant resources or configurations.
 
