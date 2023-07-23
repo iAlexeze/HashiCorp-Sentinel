@@ -1,4 +1,7 @@
 # Sentinel Policies Repository
+![GitHub](https://img.shields.io/badge/-HashiCorp--Sentinel-orange) ![IALEX](https://img.shields.io/badge/IALEX-blue) ![IALEX](https://img.shields.io/badge/-Security-gray) ![IALEX](https://img.shields.io/badge/Starter--Kit-red) ![VSCODE](https://img.shields.io/badge/HashiCorp-violet) 
+
+
 Welcome to the Sentinel Policies Repository! This repository contains a collection of Sentinel policies and related files to enforce specific rules and restrictions within your infrastructure. Sentinel is a powerful policy-as-code framework that allows you to define and enforce policies across various aspects of your applications and infrastructure.
 
 ## Directory Structure
